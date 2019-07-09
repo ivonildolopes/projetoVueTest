@@ -1,0 +1,33 @@
+{
+  "status":"SUCCESS",
+  "message":"Divida encontrada",
+  "dados_contribuinte": {
+    "cgf":"061062057",
+    "cnpj":"33000118001574",
+    "nome":"TELEMAR NORTE LESTE S/A                                     "
+  },
+  "dividas":{
+    "tributarias":[
+      {
+          "numero_inscricao":"2006000000160",
+          "valor":"754894.63",
+          "descricao_origem_debito":"AI                      ",
+          "descricao_receita":"ICMS DIVIDA ATIVA                            "
+      },
+      {
+        "numero_inscricao":"2006000000160",
+        "valor":"754894.63",
+        "descricao_origem_debito":"IPVA",
+        "descricao_receita":"ICMS DIVIDA ATIVA                            "
+      },
+      {
+        "numero_inscricao":"2006000000160",
+        "valor":"754894.63",
+        "descricao_origem_debito":"AI                      ",
+        "descricao_receita":"ICMS DIVIDA ATIVA                            "
+      }
+    ],
+    "nao_tributaria":[
+    ]
+  }
+}
